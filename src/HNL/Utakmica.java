@@ -56,8 +56,4 @@ public class Utakmica {
         utakmicaInfo.append("\n-----------------------------------------------------------------");
         return utakmicaInfo.toString();
     }
-
-    public int getId() {
-        return id;
-    }
 }

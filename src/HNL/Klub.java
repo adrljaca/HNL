@@ -22,8 +22,4 @@ public class Klub {
     public String getNaziv() {
         return naziv;
     }
-
-    public int getId() {
-        return id;
-    }
 }
